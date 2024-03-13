@@ -1,0 +1,12 @@
+body{font-family: "Comic Sans MS", "Comic Sans", cursive;}
+h1,h2, h3 ,h4,h5,h6{color:#682768;}
+h1,h2, h3 ,h4,h5,h6{background-color:#b894b8;}
+body{background-color: #b884b8;}
+hr{border-color:#a25da2;}
+p{background-color: #99b1ff;
+ border:2px;
+ border-radius:10%;
+ border-style: solid;
+ border-color: #1d726b;
+color: #ff000021;}
+p{color: #ff00cc;}
